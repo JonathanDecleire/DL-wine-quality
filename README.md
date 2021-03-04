@@ -19,4 +19,6 @@ We mapped out the different graphs of the linear relationships between the diffe
 The next idea was to use a multi-class classification model with pytorch again. The 11 features were used. The model consisted of 3 layers of perceptrons. Several variables to the model such as 'epochs', 'batch_size', 'learning_rate', and 'amount of perceptrons' in each layer was adjusted to try and achieve the best score possible. Unfortunately, after much tinkering with the model, an accuracy score of 46% was achieved. We can clearly see that our model overfits consistently and we need to find a way to reduce the overfitting and increase the accuracy.
 
 
+Installation 
 
+![Installation package](DL-wine-quality/packagelist.txt)
