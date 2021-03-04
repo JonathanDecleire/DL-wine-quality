@@ -21,4 +21,4 @@ The next idea was to use a multi-class classification model with pytorch again. 
 
 Installation 
 
-![Installation package](DL-wine-quality/packagelist.txt)
+![Installation package](DL-wine-quality/blob/main/packagelist.txt)
